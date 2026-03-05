@@ -1,4 +1,4 @@
-Versão Inicial - Planejamento Estratégico do Projeto
+Versão 1.1 - Revisado conforme normas ESG.
 
 Este documento define a baseline inicial dde governança, alinhada aos frameworks COBIT e ITIL.
 Responsável: Matheus Lopes
